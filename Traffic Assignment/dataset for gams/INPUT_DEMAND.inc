@@ -1,0 +1,4 @@
+PARAMETER DEMAND(I,J)/
+1.	2	7200
+2.	1	0
+/;
